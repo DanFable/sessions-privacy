@@ -1,6 +1,6 @@
 # Privacy Policy for Sessions App
 
-**Last Updated: 10/05/2025**
+**Last Updated: [Date of Last Update]**
 
 Welcome to Sessions ("the App"), the pocket songwriting gizmo! This Privacy Policy describes how your personal information is collected, used, and shared when you use our application.
 
@@ -35,6 +35,7 @@ Sessions uses the collected data for various purposes:
 *   **To Process Subscriptions:** To manage Pro subscriptions through our third-party payment processor, RevenueCat.
 *   **To Power AI Features:** Your inputs to AI tools are sent to a third-party AI service (DeepSeek API) to generate results.
 *   **To Improve Our Service:** To understand how users interact with the app, identify areas for improvement, fix bugs, and develop new features. Firebase Analytics helps us with this.
+*   **For Research and Development (Anonymized/Aggregated Data):** We may use anonymized or aggregated data derived from your song projects and other user-generated content for internal research, to analyze trends, to improve the functionality and intelligence of our existing services (including our AI-powered tools), and to develop new features and services. This data, once anonymized or aggregated, will no longer identify you personally.
 *   **For Customer Support:** To respond to your inquiries and provide assistance.
 *   **To Ensure Security:** To monitor for and prevent fraudulent or unauthorized activity.
 *   **To Comply with Legal Obligations.**
@@ -72,8 +73,9 @@ While we and our service providers strive to use commercially acceptable means t
 
 We will retain your Personal Information only for as long as is necessary for the purposes set out in this Privacy Policy.
 
-*   **Account Information & User-Generated Content:** We will retain your account information and associated user-generated content stored in Firebase for as long as your account is active. If your account becomes inactive, we will retain this data for a period of **5 years** from the last date of activity, after which it may be deleted.
+*   **Account Information & User-Generated Content:** We will retain your account information and associated user-generated content (such as your song projects) stored in Firebase for as long as your account is active. If your account becomes inactive, we will retain this data for a period of **5 years** from the last date of activity, after which it may be deleted. You may also be able to delete specific content or your account through the app's functionality, subject to our data deletion processes.
 *   **Data Processed by AI Services:** Inputs sent to the DeepSeek API may be retained by DeepSeek according to their data retention policies for service improvement and model training. Please refer to DeepSeek's Privacy Policy for details.
+*   **Anonymized/Aggregated Data for Improvement:** Data that has been anonymized or aggregated, such that it can no longer be reasonably used to identify an individual, may be retained indefinitely by us for research, analytics, service improvement, and development purposes. This includes data derived from your song projects and other user-generated content after it has been processed to remove personal identifiers.
 
 ## 6. Your Rights and Choices
 
