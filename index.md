@@ -1,6 +1,6 @@
 # Privacy Policy for Sessions App
 
-**Last Updated: [Date of Last Update]**
+**Last Updated: May 10, 2025**
 
 Welcome to Sessions ("the App"), the pocket songwriting gizmo! This Privacy Policy describes how your personal information is collected, used, and shared when you use our application.
 
