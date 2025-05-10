@@ -1,7 +1,6 @@
 # Terms of Use for Sessions App
 
-**Last Updated: October 26, 2023** 
-*(Please replace with the actual date you publish this)*
+**Last Updated: May 10, 2025**
 
 Welcome to Sessions ("the App," "we," "us," or "our"). This app is designed to be your pocket songwriting gizmo, helping to abolish writer's block and maximize creativity. These Terms of Use ("Terms") govern your access to and use of the Sessions mobile application, including any content, functionality, and services offered on or through the App. "Sessions" is operated by Keep Me Young.
 
